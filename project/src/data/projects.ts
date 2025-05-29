@@ -30,14 +30,13 @@ export const projects: Project[] = [
     title: "Geospatial Feature Detection & Segmentation",
     description: "Implemented a YOLOv11 + SAM2 pipeline for land use classification using AID and NWPU datasets, achieving high accuracy in feature detection and segmentation.",
     image: "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    technologies: ["Python", "YOLOv11", "SAM2", "Computer Vision", "Deep Learning"],
-  
+    technologies: ["Python", "YOLOv11", "SAM2", "Computer Vision", "Deep Learning"]
   },
   {
     id: 4,
     title: "Tomato Disease Detection",
     description: "Developed a YOLOv9-based system for real-time tomato disease detection, achieving 67.16% precision with a rapid detection time of 0.144 seconds.",
     image: "https://images.pexels.com/photos/5528994/pexels-photo-5528994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    technologies: ["Python", "YOLOv9", "Computer Vision", "Deep Learning"],
-    
+    technologies: ["Python", "YOLOv9", "Computer Vision", "Deep Learning"]
+  }
 ];
