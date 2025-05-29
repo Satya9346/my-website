@@ -95,7 +95,7 @@ const Contact: React.FC = () => {
               
               <div className="flex space-x-4">
                 <a 
-                  href="#" 
+                  href="https://www.linkedin.com/in/satyaprakashpittala/" 
                   className="bg-slate-200 dark:bg-slate-800 hover:bg-amber-500 dark:hover:bg-amber-500 text-slate-700 hover:text-white dark:text-slate-300 dark:hover:text-white p-3 rounded-full transition-colors duration-300"
                   aria-label="LinkedIn"
                 >
@@ -104,7 +104,7 @@ const Contact: React.FC = () => {
                   </svg>
                 </a>
                 <a 
-                  href="#" 
+                  href="https://github.com/Satya9346" 
                   className="bg-slate-200 dark:bg-slate-800 hover:bg-amber-500 dark:hover:bg-amber-500 text-slate-700 hover:text-white dark:text-slate-300 dark:hover:text-white p-3 rounded-full transition-colors duration-300"
                   aria-label="GitHub"
                 >
